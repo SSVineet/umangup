@@ -1,2 +1,2 @@
-# umang
-kdjkd
+# umangup
+this is a static website 
